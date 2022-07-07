@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Block and Blockstream are partnering with Tesla on an off-grid, solar-powered Bitcoin mine in Texas",
+            "description": "Block and Blockstream are partnering with Tesla on an open-source, solar-powered Bitcoin mine, the companies announced Friday. Tesla’s 3.8-megawatt Solar PV array and its 12 megawatt-hour Megapack will power the facility, and construction has started on the p…",
+            "url": "https://www.theverge.com/2022/4/8/23016553/block-blockstream-tesla-solar-bitcoin-mine-texas",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/OYrvaaOHBuEpdTeRO55nZnZdexs=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8937281/acastro_170726_1777_0007_v2.jpg",
+            "publishedAt": "2022-04-08T16:02:52Z",
+            "content": "Its set to open later this year\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge\r\nBlock and Blockstream, a … [+1336 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Wikipedia editors vote to block cryptocurrency donations",
+            "description": "Wikipedia editors have voted in favor of dropping cryptocurrency from the Wikimedia Foundation's donation options. As Ars Technica reports, an editor for the online encyclopedia called GorillaWarfare wrote a proposal for the foundation to stop accepting crypt…",
+            "url": "https://www.engadget.com/wikipedia-editors-vote-to-block-cryptocurrency-donations-113549175.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/9f595ce0-de17-11eb-bef2-e1b1456d84ae",
+            "publishedAt": "2022-04-14T11:35:49Z",
+            "content": "Wikipedia editors have voted in favor of dropping cryptocurrency from the Wikimedia Foundation's donation options. As Ars Technica reports, an editor for the online encyclopedia called GorillaWarfare… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Warren Buffett Says He Wouldn't Take All the Bitcoin in the World for $25",
+            "description": "Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypto has nothing to do with whether people can make money tradi…",
+            "url": "https://gizmodo.com/warren-buffett-all-bitcoin-world-25-dollars-assets-valu-1848866967",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bbc389f90510758bf8f4131a7e2cbacd.png",
+            "publishedAt": "2022-05-02T11:30:00Z",
+            "content": "Warren Buffett has always been a bitcoin skeptic. But the billionaire investor had his most harsh words yet for the cryptocurrency over the weekend. Buffett made it clear that his opposition to crypt… [+2297 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Gian M. Volpicelli",
+            "title": "What Twitter Is Really Planning for Crypto",
+            "description": "The duo behind Twitter Crypto say NFT profile pics and crypto tipping are just the beginning.",
+            "url": "https://www.wired.com/story/twitter-crypto-strategy/",
+            "urlToImage": "https://media.wired.com/photos/624b7db8c736857145d140ef/191:100/w_1280,c_limit/twitter-crypto-1192300351.jpg",
+            "publishedAt": "2022-04-05T11:00:00Z",
+            "content": "You might have heard of crypto Twitter, the corner of the social network where accounts have Bored Apes as profile pictures, posts are rife with talk of tokens, blockchains, and buying the Bitcoin di… [+3133 chars]"
+        }
+    ]
+}
